@@ -1,0 +1,21 @@
+爬取番剧
+番剧索引
+地址：
+https://www.bilibili.com/anime/index/#season_version=-1&area=-1&is_finish=-1&copyright=-1&season_status=-1&season_month=-1&pub_date=-1&style_id=-1&order=3&st=1&sort=0&page=1
+url：https://www.bilibili.com/anime/index/#
+筛选参数：
+类型：season_version = -1全部 1正片 2剧场版 3其他
+地区：area=
+状态：is_finish
+版权：copyright
+付费：season_status
+季度：season_month
+时间：pub_date
+风格：style_id
+排序方式order
+st=1
+sort=0
+page=页码
+
+
+# 由于li标签在ul下并未展开，无法获取
